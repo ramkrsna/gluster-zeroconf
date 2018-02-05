@@ -113,7 +113,7 @@ discoverable.
 
 %changelog
 
-* Mon Feb 06 2018 Ramakrishna Reddy Yekulla <rreddy@redhat.com> - 0.1.0-2
+* Mon Feb 05 2018 Ramakrishna Reddy Yekulla <rreddy@redhat.com> - 0.1.0-2
 - Spec file URL change
 
 * Fri Aug 25 2017 Niels de Vos <ndevos@redhat.com> - 0.1.0-1
